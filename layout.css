@@ -9,7 +9,7 @@
 // Self-explanatory
 */
 #inlineContent {
-    background-image: url('https://i.imgur.com/6elpkXQ.jpg');;
+    background-image: url('https://i.imgur.com/6elpkXQ.jpg');
     background-position: hide;
     background-size: cover;
     height: 200px;
@@ -40,7 +40,7 @@ body:before {
     display: block;
     position: relative;
     height: 350px;
-    background-image: url ('https://i.imgur.com/nKMRr7R.jpg');
+    background-image: url ('https://i.imgur.com/hKzQ1cd.jpg');
 }
 
 
