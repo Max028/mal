@@ -44,7 +44,7 @@ BODY:before {
     content: "";
     display: block;
     position: relative;
-    height: 350px;
+    height: 380px;
     background-color: #2E333D;
 }
 BODY {
