@@ -10,7 +10,7 @@
 */
 #inlineContent {
     background-image: hide;
-    background-position: center;
+    background-position: hide;
     background-size: cover;
     height: 200px;
     width: 200px;
