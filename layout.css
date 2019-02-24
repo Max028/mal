@@ -35,7 +35,13 @@
 	  text-align: center;
 }
 */
-
+body:before {
+    content: "";
+    display: block;
+    position: relative;
+    height: 350px;
+    background-image: linear-gradient(120deg, #155799, #159957);
+}
 
 
 /*
