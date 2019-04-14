@@ -266,7 +266,6 @@ Header classes for Currently Watching, Completed, Dropped, etc...
 }
 #mal\_control\_strip {
     background-image: url("") !important;
-    background-color: #272B35 !important;
     width: 100%;
     height: 50px;
     padding: 0;
