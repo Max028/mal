@@ -249,7 +249,7 @@ Header classes for Currently Watching, Completed, Dropped, etc...
 .animetitle {
     font-weight: bold;
 }
-/*
+
 #copyright {
     padding: 15px;
     text-align: center;
@@ -261,11 +261,14 @@ Header classes for Currently Watching, Completed, Dropped, etc...
     color: #31708f;
     background-color: #d9edf7;
 }
+/*
 #copyright::After {
     white-space: pre !important;
     content: "\A Layout design by iSayChris";
     margin-bottom: 20px;
 }
+*/
+/*
 #mal\_control\_strip {
     background-image: url("") !important;
     background-color: #272B35 !important;
