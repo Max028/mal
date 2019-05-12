@@ -46,7 +46,9 @@
 BODY:before {
     content: "";
     display: block;
-    position: fixed;
+    position: static;
+    margin-left: auto;
+    margin-right: auto;
     height: 500px;
     background-image: url('https://i.imgur.com/02mzndb.jpg');
 }
