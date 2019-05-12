@@ -46,7 +46,6 @@
 BODY:before {
     content: "";
     display: block;
-    position: static;
     margin-left: auto;
     margin-right: auto;
     height: 500px;
